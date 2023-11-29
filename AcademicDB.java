@@ -10,7 +10,7 @@ public class MySQL_JDBCS_AcademicManagementSystem {
         Statement stmt = null;
         ResultSet resultSet = null;
 
-        final String inputFileName = "/Users//seonjuhwan//Desktop//LAB11//src//tbl_students.txt";
+        final String inputFileName = "/Users/baghyeong-geon/eclipse-workspace/tbl_students.txt";
         final String MySQL_JDBC_driver = "com.mysql.cj.jdbc.Driver";
         final String url_DB = "jdbc:mysql://localhost:3306/";
         final String db_acamdemic_name = "DB_ACADEMIC";
